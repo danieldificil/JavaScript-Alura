@@ -28,3 +28,11 @@ console.log(numZero / numZero);
 var a = 10
 var b = 0
 console.log(a/b) // Infinity
+
+// atribuindo operacao matematica
+
+const soma = 10 + 10;
+const multiplicacao = 10 * 10;
+const operacao = (soma + multiplicacao) + 10;
+
+console.log(operacao)

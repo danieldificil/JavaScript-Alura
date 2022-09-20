@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="template-strings.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v18.9.0/bin/node" nameIsGenerated="true" path-to-js-file="template-strings.js" working-dir="$PROJECT_DIR$/04-operadores/03-template-literall">
+    <method v="2" />
+  </configuration>
+</component>

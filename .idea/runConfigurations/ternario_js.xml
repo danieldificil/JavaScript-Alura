@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ternario.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v18.9.0/bin/node" nameIsGenerated="true" path-to-js-file="ternario.js" working-dir="$PROJECT_DIR$/04-operadores/02-operador-ternario">
+    <method v="2" />
+  </configuration>
+</component>
